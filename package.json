@@ -1,0 +1,24 @@
+{
+  "main": "index.js",
+  "name": "codefights.net",
+  "description": "Codefights fighter",
+  "webkit": {
+    "plugin": true
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "syncprompt": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TwodayLT/codefights-sdk-node"
+  },
+  "keywords": [
+    "codefights",
+    "nodejs"
+  ],
+  "author": "twoday",
+  "license": "MIT",
+  "homepage": "https://codefights.net/"
+}
